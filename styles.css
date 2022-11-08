@@ -137,3 +137,17 @@ table.three{
 th.th{
   background-color:white;
 }
+h1 {
+  visibility: hidden;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:visited{
+  color: red;
+}
+a:hover{
+  color:white;
+}
